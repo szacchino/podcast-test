@@ -18,6 +18,7 @@
         <item>
             <author>comunicazione@unisalento.it (Ufficio Comunicazione)</author>
             <title>Per tutti i martedì di marzo il biglietto del cinema costa solo 3 euro</title>
+            <itunes:subtitle>Per tutti i martedì di marzo il biglietto del cinema costa 3 euro</itunes:subtitle>
             <itunes:image href="https://testup.unisalento.it/image/journal/article?img_id=919729"/>
             <description> <![CDATA[ <p>La<strong> Regione Puglia</strong>, in collaborazione con l'Unione interregionale Pugliese e la Federazione italiana Cinema d'Essai, propone per il mese di marzo i&nbsp;<strong><em>Martedì al cinema</em></strong>. L'iniziativa consente di acquistare i<strong>l biglietto d'ingresso a 3 euro</strong>, nei cinema che aderiscono all'evento, e sarà attiva per tutti i martedì del mese di marzo. I film proposti saranno una selezione di opere d'autore, alternative ai grandi circuiti commerciali.</p>
 
@@ -56,6 +57,7 @@
         <item>
             <author>comunicazione@unisalento.it (Ufficio Comunicazione)</author>
             <title>Premio Zegna: borse di studio per i laureati e laureandi delle scuole di medicina, chirurgia, ingegneria e scienze</title>
+            <itunes:subtitle>Scopri le borse di studio messe a disposizione dall'università del Salento e dal gruppo Zegna </itunes:subtitle>
             <itunes:image href="https://testup.unisalento.it/image/journal/article?img_id=919724"/>
             <description> <![CDATA[ <p>Anche quest'anno l'università del Salento, in collaborazione con il gruppo Zegna, offre delle borse di studio da 5.000 fino a 50.000 euro per dare ai laureati e laureandi più promettenti delle scuole di medicina e chirurgia, ingegneria e scienze la possibilità di intraprendere un percorso di ricerca o specializzazione post-lauream all’estero. Il programma, in memoria di Ermenegildo Zegna, ha l'obiettivo di sviluppare il potenziale di quei giovani desiderosi di ritornare in Italia dopo aver completato i loro studi all'estero.</p>
 
@@ -73,6 +75,7 @@
         <item>
             <author>comunicazione@unisalento.it (Ufficio Comunicazione)</author>
             <title>Diventare tutor UniSalento, disponibili i bandi per la candidatura</title>
+            <itunes:subtitle>Scopri come diventare tutor UniSalento </itunes:subtitle>
             <itunes:image href="https://testup.unisalento.it/image/journal/article?img_id=919719"/>
             <description> <![CDATA[ <p dir="ltr">I tutor sono studenti, dottorandi e specializzandi che<strong> aiutano gli studenti più giovani nella loro carriera universitaria</strong>, supportandoli nello studio e fornendo loro informazioni e aiutandoli a inserirsi nella comunità universitaria.</p>
 
