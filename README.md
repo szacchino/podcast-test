@@ -23,3 +23,4 @@ Per generare un feed che superì i controlli di validazione ([Link](https://vali
     ```
 
     Occorre che l'attributo isPermalink sia falso, in modo da poter utilizzare un id alfanumerico qualsiasi e non obbligatoriamente un link. Questo sarà poi utilizzato per generare un link che consenta di aprire la notizia corrispondente.
+- per poter generare il link di download al file mp3, possiamo utilizzare il seguente metodo: poichè il link alla puntata in mp3 è un link alla playlist m3u8, si fa in modo che sostituendo nel link la string `m3u8` con la stringa `mp3` si ottenga il link di download. Pertanto nel filesystem del generatore andrà creato un file mp3 nella stessa cartella del file m3u8 e con lo stesso nome (la parte precedente al prefisso).
