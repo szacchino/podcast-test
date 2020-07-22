@@ -6,7 +6,7 @@
         <language>it-IT</language>
         <atom:link href="https://testup.unisalento.it/podcast" rel="self" type="application/rss+xml"/>
         <copyright>UniSalento</copyright>
-        <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
+        <pubDate>Sat, 4 Jul 2020 00:00:00 +0200</pubDate>
         <description>I migliori contenuti prodotti da UniSalento</description>
         <image>
             <url>https://szacchino.github.io/podcast-test/logo.gif</url>
@@ -49,7 +49,7 @@
         ㅤ  ]]></description>
             <enclosure url="https://testup.unisalento.it/documents/20143/0/cinema3euro.mp3/73c7171e-d839-fc62-3a76-35156fcbff58" type="audio/mp3" length="4096"/>
             <category domain="https://testup.unisalento.it/podcast/light">Light</category>
-            <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
+            <pubDate>Mon, 6 Jul 2020 00:00:00 +0200</pubDate>
             <guid isPermaLink="false">
                 https://testup.unisalento.it/podcast/1
             </guid>
@@ -67,7 +67,7 @@
         ㅤ  ]]></description>
             <enclosure url="https://testup.unisalento.it/documents/20143/0/premio+zegna+con+jingle.mp3/5f428a9b-bb48-4858-ad1a-a26d5840edcf" type="audio/mp3" length="4096"/>
             <category domain="https://testup.unisalento.it/podcast/inateneo">In Ateneo</category>
-            <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
+            <pubDate>Wed, 05 Aug 2020 00:00:00 +0200</pubDate>
             <guid isPermaLink="false">
                 https://testup.unisalento.it/podcast/2
             </guid>
@@ -84,7 +84,7 @@
         ㅤ  ]]></description>
             <enclosure url="https://testup.unisalento.it/documents/20143/0/news_tutorunipd.mp3/8b86127c-75c2-333e-0fbf-5cdc5ea27a7e" type="audio/mp3" length="4096"/>
             <category domain="https://testup.unisalento.it/podcast/inateneo">In Ateneo</category>
-            <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
+            <pubDate>Tue, 06 Oct 2020 00:00:00 +0200</pubDate>
             <guid isPermaLink="false">
                 https://testup.unisalento.it/podcast/3
             </guid>
