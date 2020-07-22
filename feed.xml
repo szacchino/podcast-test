@@ -51,7 +51,7 @@
             <category domain="https://testup.unisalento.it/podcast/light">Light</category>
             <pubDate>Mon, 6 Jul 2020 00:00:00 +0200</pubDate>
             <guid isPermaLink="false">
-                https://testup.unisalento.it/podcast/1
+                articolo1
             </guid>
         </item>
         <item>
@@ -69,7 +69,7 @@
             <category domain="https://testup.unisalento.it/podcast/inateneo">In Ateneo</category>
             <pubDate>Wed, 05 Aug 2020 00:00:00 +0200</pubDate>
             <guid isPermaLink="false">
-                https://testup.unisalento.it/podcast/2
+                articolo2
             </guid>
         </item>
         <item>
@@ -86,7 +86,7 @@
             <category domain="https://testup.unisalento.it/podcast/inateneo">In Ateneo</category>
             <pubDate>Tue, 06 Oct 2020 00:00:00 +0200</pubDate>
             <guid isPermaLink="false">
-                https://testup.unisalento.it/podcast/3
+                articolo3
             </guid>
         </item>
     </channel>
