@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+        <title>Podcast UniSalento</title>
+        <link>https://testup.unisalento.it/podcast</link>
+        <language>it-IT</language>
+        <atom:link href="https://testup.unisalento.it/podcast" rel="self" type="application/rss+xml"/>
+        <copyright>UniSalento</copyright>
+        <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
+        <description>I migliori contenuti prodotti da UniSalento</description>
+        <image>
+            <url>https://thisyearweconquer.github.io/logo.jpg</url>
+            <title>Podcast UniSalento</title>
+            <link>https://testup.unisalento.it/podcast</link>
+        </image>
+        <itunes:category text="Education">
+        </itunes:category>
+        <item>
+            <author>comunicazione@unisalento.it (Ufficio Comunicazione)</author>
+            <title>Per tutti i martedì di marzo il biglietto del cinema costa solo 3 euro</title>
+            <itunes:image href="https://testup.unisalento.it/image/journal/article?img_id=919729"/>
+            <description> <![CDATA[ <p>La<strong> Regione Puglia</strong>, in collaborazione con l'Unione interregionale Pugliese e la Federazione italiana Cinema d'Essai, propone per il mese di marzo i&nbsp;<strong><em>Martedì al cinema</em></strong>. L'iniziativa consente di acquistare i<strong>l biglietto d'ingresso a 3 euro</strong>, nei cinema che aderiscono all'evento, e sarà attiva per tutti i martedì del mese di marzo. I film proposti saranno una selezione di opere d'autore, alternative ai grandi circuiti commerciali.</p>
+
+                <p>A Lecce, i cinema in cui è possibile entrare in sala con il biglietto a 3 euro sono:</p>
+                
+                <ul>
+                    <li>
+                    <p><a aria-label=" (opens in a new tab)" href="https://www.movieconnection.it/lux/" rel="noreferrer noopener" target="_blank">Cinema Il Lux&nbsp;</a></p>
+                    </li>
+                    <li>
+                    <p><a aria-label=" (opens in a new tab)" href="https://cinemateatrorex.wordpress.com/" rel="noreferrer noopener" target="_blank">Cinema Rex</a></p>
+                    </li>
+                    <li>
+                    <p><a aria-label=" (opens in a new tab)" href="https://www.facebook.com/multiastra/" rel="noreferrer noopener" target="_blank">Multiastra</a>&nbsp;&nbsp;</p>
+                    </li>
+                    <li>
+                    <p><a aria-label=" (opens in a new tab)" href="https://cinemaesperia.com/" rel="noreferrer noopener" target="_blank">Cinema Esperia</a></p>
+                    </li>
+                    <li>
+                    <p><a aria-label=" (opens in a new tab)" href="https://www.portoastra.it/" rel="noreferrer noopener" target="_blank">Multisala Porto Astra</a></p>
+                    </li>
+                    <li>
+                    <p><a aria-label=" (opens in a new tab)" href="http://multisalampx.it/" rel="noreferrer noopener" target="_blank">Multisala Pio X – MPX</a></p>
+                    </li>
+                </ul>
+                
+                <p>La programmazione dei film in sala è disponibile nel&nbsp;<a href="https://www.UniSalento.it">sito dell'iniziativa</a>.&nbsp;</p>
+        ㅤ  ]]></description>
+            <enclosure url="https://testup.unisalento.it/documents/20143/0/cinema3euro.mp3/73c7171e-d839-fc62-3a76-35156fcbff58" type="audio/mp3" length="4096"/>
+            <category domain="https://testup.unisalento.it/podcast/light">Light</category>
+            <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
+            <guid isPermaLink="false">
+                https://testup.unisalento.it/podcast/1
+            </guid>
+        </item>
+        <item>
+            <author>comunicazione@unisalento.it (Ufficio Comunicazione)</author>
+            <title>Premio Zegna: borse di studio per i laureati e laureandi delle scuole di medicina, chirurgia, ingegneria e scienze</title>
+            <itunes:image href="https://testup.unisalento.it/image/journal/article?img_id=919724"/>
+            <description> <![CDATA[ <p>Anche quest'anno l'università del Salento, in collaborazione con il gruppo Zegna, offre delle borse di studio da 5.000 fino a 50.000 euro per dare ai laureati e laureandi più promettenti delle scuole di medicina e chirurgia, ingegneria e scienze la possibilità di intraprendere un percorso di ricerca o specializzazione post-lauream all’estero. Il programma, in memoria di Ermenegildo Zegna, ha l'obiettivo di sviluppare il potenziale di quei giovani desiderosi di ritornare in Italia dopo aver completato i loro studi all'estero.</p>
+
+                <p>Saranno ammessi alla selezione i candidati con una media degli esami di almeno 28/30, oppure, se già laureati, una votazione finale non inferiore a 110/110 che abbiano richiesto o ottenuto l’ammissione a un programma estero di ricerca o specializzazione post-laurea o post-dottorato. La fase di selezione prevede una valutazione del programma di ricerca che i candidati intendono svolgere e un colloquio in lingua inglese.</p>
+                
+                <p>Gli interessati possono consultare il <a href="https://www.UniSalento.it/sites/unipd.it/files/Bando Zegna-Unipd 2020.pdf">bando</a> e inviare le loro <a href="https://elearning.UniSalento.it/ufficiserviziapplicazioni/course/index.php?categoryid=60">candidature</a> entro il 16 marzo 2020.</p>
+        ㅤ  ]]></description>
+            <enclosure url="https://testup.unisalento.it/documents/20143/0/premio+zegna+con+jingle.mp3/5f428a9b-bb48-4858-ad1a-a26d5840edcf" type="audio/mp3" length="4096"/>
+            <category domain="https://testup.unisalento.it/podcast/inateneo">In Ateneo</category>
+            <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
+            <guid isPermaLink="false">
+                https://testup.unisalento.it/podcast/2
+            </guid>
+        </item>
+        <item>
+            <author>comunicazione@unisalento.it (Ufficio Comunicazione)</author>
+            <title>Diventare tutor UniSalento, disponibili i bandi per la candidatura</title>
+            <itunes:image href="https://testup.unisalento.it/image/journal/article?img_id=919719"/>
+            <description> <![CDATA[ <p dir="ltr">I tutor sono studenti, dottorandi e specializzandi che<strong> aiutano gli studenti più giovani nella loro carriera universitaria</strong>, supportandoli nello studio e fornendo loro informazioni e aiutandoli a inserirsi nella comunità universitaria.</p>
+
+                <p>Sono disponibili i tre bandi per diventare tutor informativo e didattico nei corsi di studio, tutor per progetti di supporto allo studio e tutor per l’inclusione. Si può presentare la domanda anche a più posizioni, <strong>la scadenza è il 22 giugno 2020</strong>. Per maggiori informazioni si consiglia di consultare la pagina dedicata nel <a href="https://www.UniSalento.it">sito UniSalento</a>.</p>
+                
+        ㅤ  ]]></description>
+            <enclosure url="https://testup.unisalento.it/documents/20143/0/news_tutorunipd.mp3/8b86127c-75c2-333e-0fbf-5cdc5ea27a7e" type="audio/mp3" length="4096"/>
+            <category domain="https://testup.unisalento.it/podcast/inateneo">In Ateneo</category>
+            <pubDate>Wed, 02 Oct 2002 15:00:00 +0200</pubDate>
+            <guid isPermaLink="false">
+                https://testup.unisalento.it/podcast/3
+            </guid>
+        </item>
+    </channel>
+</rss>
