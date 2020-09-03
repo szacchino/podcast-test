@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+        <title>Podcast UniSalento</title>
+        <link>https://testup.unisalento.it/podcast</link>
+        <language>it-IT</language>
+        <atom:link href="https://testup.unisalento.it/podcast" rel="self" type="application/rss+xml"/>
+        <copyright>UniSalento</copyright>
+        <pubDate>Sat, 4 Jul 2020 00:00:00 +0200</pubDate>
+        <description>I migliori contenuti prodotti da UniSalento</description>
+        <image>
+            <url>https://szacchino.github.io/podcast-test/logo.gif</url>
+            <title>Podcast UniSalento</title>
+            <link>https://testup.unisalento.it/podcast</link>
+        </image>
+        <itunes:category text="Education">
+        </itunes:category>
+        <item>
+            <author>comunicazione@unisalento.it (Ufficio Comunicazione)</author>
+            <title>Notizia Vecchia non presente nel feed</title>
+            <itunes:subtitle>Esempio di recupero notizia vecchia</itunes:subtitle>
+            <itunes:image href="https://testup.unisalento.it/image/journal/article?img_id=919729"/>
+            <description> <![CDATA[ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam sapiente tempora, vero neque quod placeat nisi nihil suscipit facilis in? Beatae error fugit, quos labore dolorum reprehenderit totam corrupti accusantium?
+        ㅤ  ]]></description>
+            <enclosure url="https://testup.unisalento.it/documents/20143/0/cinema3euro.mp3/73c7171e-d839-fc62-3a76-35156fcbff58" type="audio/mp3" length="4096"/>
+            <category domain="https://testup.unisalento.it/podcast/light">Light</category>
+            <pubDate>Mon, 1 Jan 2020 00:00:00 +0200</pubDate>
+            <guid isPermaLink="false">
+                articolo100
+            </guid>
+        </item>
+    </channel>
+</rss>
